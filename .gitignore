@@ -1,0 +1,12 @@
+node_modules/
+*.log
+test/
+dist/
+examples/
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
+lib/
